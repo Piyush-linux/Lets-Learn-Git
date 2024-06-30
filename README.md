@@ -26,6 +26,7 @@
   ```bash
   git config --global user.name "Your Name"
   git config --global user.email "your.email@example.com"
+  git --version # To confirm that git is installed and configured correctly on your machine
   ```
 
 #### 4. Creating a Git Repository
